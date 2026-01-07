@@ -1,3 +1,5 @@
+REM This file is used to generate the .exe file in /dist
+
 rmdir /s /q build
 rmdir /s /q dist
 
